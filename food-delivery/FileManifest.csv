@@ -1,0 +1,5 @@
+FileName,TargetFolder
+Customers.csv,Customers
+Restaurants.csv,Restaurants
+Orders.csv,Orders
+Payments.csv,Payments

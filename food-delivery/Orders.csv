@@ -1,0 +1,5 @@
+OrderID,CustomerID,RestaurantID,OrderAmount,OrderStatus
+1001,101,201,450.0,Delivered
+1002,102,202,320.0,Delivered
+1003,103,203,180.0,Preparing
+1004,104,204,550.0,Delivered
